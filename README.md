@@ -39,8 +39,11 @@ Tensorflow代码练习: https://github.com/terryum/TensorFlow_Exercises
 
 [台湾国立大学李宏毅教程深度学习的课程](https://www.bilibili.com/video/av9770302/)
 
-国外英文课程：https://www.youtube.com/watch?v=vq2nnJ4g6N0 ；http://bit.ly/1OX8s8Y ；https://www.youtube.com/watch?v=GZBIPwdGtkk&t=125s
+[Tensorflow与深度学习（人工智能）-初学篇 (Martin Görner)](https://www.youtube.com/watch?v=vq2nnJ4g6N0)
 
+[Dan Does Data: Tensor Flow](http://bit.ly/1OX8s8Y)
+
+[Julia Ferraioli, Amy Unruh, Eli Bixby - Diving into Machine Learning through TensorFlow - PyCon 2016](https://www.youtube.com/watch?v=GZBIPwdGtkk&t=125s)
 
 # 深度学习实战资源
 
