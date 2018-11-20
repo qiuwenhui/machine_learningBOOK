@@ -3,7 +3,7 @@
 
 # 网址资源
 ## Github资源
-Notes for papers or blog posts about ML, Robotics, CV. https://github.com/yenchenlin/paper-notes
+* Notes for papers or blog posts about ML, Robotics, CV. https://github.com/yenchenlin/paper-notes
 
 Deep Learning and deep reinforcement learning research papers and some codes ：https://github.com/endymecy/awesome-deeplearning-resources
 
