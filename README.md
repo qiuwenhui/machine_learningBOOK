@@ -3,6 +3,10 @@
 
 # 网址资源
 ## Github资源
+Notes for papers or blog posts about ML, Robotics, CV. https://github.com/yenchenlin/paper-notes
+
+Deep Learning and deep reinforcement learning research papers and some codes ：https://github.com/endymecy/awesome-deeplearning-resources
+
 Deep Learning Book Chinese Translation ：https://github.com/exacity/deeplearningbook-chinese
 
 深度学习500问 ： https://github.com/scutan90/DeepLearning-500-questions
@@ -40,6 +44,12 @@ TF Girls 修炼指南： https://www.youtube.com/watchv=TrWqRMJZU8A&list=PLwY2GJ
 
 # 深度学习实战资源
 
+A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities：https://github.com/OlafenwaMoses/ImageAI ；中文安装使用教程：https://blog.csdn.net/weixin_39059031/article/details/82287688
+
+textgenrnn  ：https://github.com/minimaxir/textgenrnn ；中文安装教程：https://blog.csdn.net/weixin_39059031/article/details/83748135
+
+texar：https://github.com/asyml/texar ；中文安装教程：https://blog.csdn.net/weixin_39059031/article/details/83748135
+
 Tenflow实现YOLO：“实时对象检测”，支持实时在移动设备上运行的一个小项目：https://github.com/thtrieu/darkflow
 
 实现实现Alex Graves论文的随机手写生成的案例 ： https://github.com/hardmaru/write-rnn-tensorflow
@@ -62,7 +72,11 @@ Mask R-CNN for object detection and instance segmentation on Keras and TensorFlo
 
 A PyTorch implementation of the architecture of Mask RCNN, serves as an introduction to working with PyTorch：https://github.com/wannabeOG/Mask-RCNN
 
-A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities：https://github.com/OlafenwaMoses/ImageAI ；
+Estimate 3D face pose by a Convolutional Neural Network ：https://github.com/fengju514/Face-Pose-Net
+
+Code for paper "Plug and Play Generative Networks" ：https://github.com/Evolving-AI-Lab/ppgn
+
+
 
 
 
