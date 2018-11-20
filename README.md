@@ -27,7 +27,7 @@ Tensorflow代码练习: https://github.com/terryum/TensorFlow_Exercises
 
 ## tensorflow视频教程
 
-[斯坦福大学Tensorflow系列的课程](https://www.youtube.com/watch?v=g-EvyKpZjmQ&index=1&list=PLIDllPt3EQZoS8gCP3cw273Cq9puuPLTg ；课程主页：http://web.stanford.edu/class/cs20si/index.html) ；[课程实战代码](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
+[斯坦福大学Tensorflow系列的课程](https://www.youtube.com/watch?v=g-EvyKpZjmQ&index=1&list=PLIDllPt3EQZoS8gCP3cw273Cq9puuPLTg) ；[课程主页](http://web.stanford.edu/class/cs20si/index.html) ；[课程实战代码](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
 
 [谷歌Tensorflow官网上的视频教程](https://developers.google.cn/machine-learning/crash-course/)
 
