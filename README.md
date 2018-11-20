@@ -13,23 +13,18 @@
 * Tensorflow代码练习: https://github.com/terryum/TensorFlow_Exercises
 * 使用Jupyter Notebook运行的TensorFlow教程 : https://github.com/sjchoi86/Tensorflow-101
 * 构建您的第一款TensorFlow Android应用程序 : https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html
-# 视频资源
-
-## tensorflow视频教程
+## 视频资源
+### tensorflow视频教程
 * [斯坦福大学Tensorflow系列的课程](https://www.youtube.com/watch?v=g-EvyKpZjmQ&index=1&list=PLIDllPt3EQZoS8gCP3cw273Cq9puuPLTg) ；[课程主页](http://web.stanford.edu/class/cs20si/index.html) ；[课程实战代码](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
 * [谷歌Tensorflow官网上的视频教程](https://developers.google.cn/machine-learning/crash-course/)
 * [TF Girls 修炼指南](https://www.youtube.com/watchv=TrWqRMJZU8A&list=PLwY2GJhAPWRcZxxVFpNhhfivuW0kX15yG&index=2)
 * [炼数成金Tensorflow公开课](https://www.youtube.com/watchv=eAtGqz8ytOI&list=PLjSwXXbVlK6IHzhLOMpwHHLjYmINRstrk)
-
-## 深度学习视频
-
+### 深度学习视频
 * [台湾国立大学李宏毅教程深度学习的课程](https://www.bilibili.com/video/av9770302/)
 * [Tensorflow与深度学习（人工智能）-初学篇 (Martin Görner)](https://www.youtube.com/watch?v=vq2nnJ4g6N0)
 * [Dan Does Data: Tensor Flow](http://bit.ly/1OX8s8Y)
 * [Julia Ferraioli, Amy Unruh, Eli Bixby - Diving into Machine Learning through TensorFlow - PyCon 2016](https://www.youtube.com/watch?v=GZBIPwdGtkk&t=125s)
-
-# 深度学习实战资源
-
+## 深度学习实战资源
 * [ImageAI : 一个用于迅速构建自己的计算机视觉应用库，快速实现YOLO等目标检测算法](https://github.com/OlafenwaMoses/ImageAI) ；[中文安装使用教程](https://blog.csdn.net/weixin_39059031/article/details/82287688)
 * [textgenrnn ：仅需几行代码快速搭建复杂神经网络文本生成器](https://github.com/minimaxir/textgenrnn) ；[中文安装教程](https://blog.csdn.net/weixin_39059031/article/details/83748135)
 * [texar ：文本生成工具包](https://github.com/asyml/texar) ；[中文安装教程](https://blog.csdn.net/weixin_39059031/article/details/83748135)
