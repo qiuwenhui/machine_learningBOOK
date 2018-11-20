@@ -3,11 +3,13 @@
 
 # 网址资源
 ## Github资源
+Deep Learning Book Chinese Translation ：https://github.com/exacity/deeplearningbook-chinese
+
 深度学习500问 ： https://github.com/scutan90/DeepLearning-500-questions
 
 PyTorch资源列表: https://github.com/bharathgs/Awesome-pytorch-list
 
-适合初学者的Tensorflow教程和代码示例: https://github.com/aymericdamien/TensorFlow-Examples
+TensorFlow Tutorial and Examples for Beginners with Latest APIs: https://github.com/aymericdamien/TensorFlow-Examples
 
 从Tensorflow基础知识到有趣的项目应用 :https://github.com/pkmital/tensorflow_tutorials
 
@@ -54,6 +56,13 @@ Tensorflow实现“基于句子分类的卷积神经网络：https://github.com/
 
 OpenStreetMap功能和卫星图像训练TensorFlow神经网络：https://github.com/jtoy/awesome-tensorflow
 
+李航博士《统计学习方法》一书中所有算法实现：https://github.com/WenDesi/lihang_book_algorithm
+
+Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow ：https://github.com/matterport/Mask_RCNN
+
+A PyTorch implementation of the architecture of Mask RCNN, serves as an introduction to working with PyTorch：https://github.com/wannabeOG/Mask-RCNN
+
+A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities：https://github.com/OlafenwaMoses/ImageAI ；
 
 
 
