@@ -27,17 +27,17 @@ Tensorflow代码练习: https://github.com/terryum/TensorFlow_Exercises
 
 ## tensorflow视频教程
 
-斯坦福大学Tensorflow系列的课程：https://www.youtube.com/watch?v=g-EvyKpZjmQ&index=1&list=PLIDllPt3EQZoS8gCP3cw273Cq9puuPLTg ；课程主页：http://web.stanford.edu/class/cs20si/index.html ；课程实战代码：https://github.com/chiphuyen/stanford-tensorflow-tutorials
+[斯坦福大学Tensorflow系列的课程](https://www.youtube.com/watch?v=g-EvyKpZjmQ&index=1&list=PLIDllPt3EQZoS8gCP3cw273Cq9puuPLTg ；课程主页：http://web.stanford.edu/class/cs20si/index.html) ；[课程实战代码](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
 
-谷歌Tensorflow官网上的视频教程：https://developers.google.cn/machine-learning/crash-course/
+[谷歌Tensorflow官网上的视频教程](https://developers.google.cn/machine-learning/crash-course/)
 
-TF Girls 修炼指南： https://www.youtube.com/watchv=TrWqRMJZU8A&list=PLwY2GJhAPWRcZxxVFpNhhfivuW0kX15yG&index=2
+[TF Girls 修炼指南](https://www.youtube.com/watchv=TrWqRMJZU8A&list=PLwY2GJhAPWRcZxxVFpNhhfivuW0kX15yG&index=2)
 
-炼数成金Tensorflow公开课：https://www.youtube.com/watchv=eAtGqz8ytOI&list=PLjSwXXbVlK6IHzhLOMpwHHLjYmINRstrk
+[炼数成金Tensorflow公开课](https://www.youtube.com/watchv=eAtGqz8ytOI&list=PLjSwXXbVlK6IHzhLOMpwHHLjYmINRstrk)
 
 ## 深度学习视频
 
-台湾国立大学李宏毅教程深度学习的课程：https://www.bilibili.com/video/av9770302/
+[台湾国立大学李宏毅教程深度学习的课程](https://www.bilibili.com/video/av9770302/)
 
 国外英文课程：https://www.youtube.com/watch?v=vq2nnJ4g6N0 ；http://bit.ly/1OX8s8Y ；https://www.youtube.com/watch?v=GZBIPwdGtkk&t=125s
 
