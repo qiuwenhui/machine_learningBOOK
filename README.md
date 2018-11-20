@@ -25,9 +25,9 @@
 * [Dan Does Data: Tensor Flow](http://bit.ly/1OX8s8Y)
 * [Julia Ferraioli, Amy Unruh, Eli Bixby - Diving into Machine Learning through TensorFlow - PyCon 2016](https://www.youtube.com/watch?v=GZBIPwdGtkk&t=125s)
 ## 深度学习实战资源
-* [ImageAI : 一个用于迅速构建自己的计算机视觉应用库，快速实现YOLO等目标检测算法](https://github.com/OlafenwaMoses/ImageAI) ；[中文安装使用教程](https://blog.csdn.net/weixin_39059031/article/details/82287688)
-* [textgenrnn ：仅需几行代码快速搭建复杂神经网络文本生成器](https://github.com/minimaxir/textgenrnn) ；[中文安装教程](https://blog.csdn.net/weixin_39059031/article/details/83748135)
-* [texar ：文本生成工具包](https://github.com/asyml/texar) ；[中文安装教程](https://blog.csdn.net/weixin_39059031/article/details/83748135)
+* [ImageAI : 一个用于迅速构建自己的计算机视觉应用库，快速实现YOLO等目标检测算法](https://github.com/OlafenwaMoses/ImageAI) ；中文安装使用[教程](https://blog.csdn.net/weixin_39059031/article/details/82287688)
+* [textgenrnn ：仅需几行代码快速搭建复杂神经网络文本生成器](https://github.com/minimaxir/textgenrnn) ；中文安装[教程](https://blog.csdn.net/weixin_39059031/article/details/83748135)
+* [texar ：文本生成工具包](https://github.com/asyml/texar) ；中文安装[教程](https://blog.csdn.net/weixin_39059031/article/details/83748135)
 * Tenflow实现YOLO：“实时对象检测”，支持实时在移动设备上运行的一个小项目：https://github.com/thtrieu/darkflow
 * 实现实现Alex Graves论文的随机手写生成的案例 ： https://github.com/hardmaru/write-rnn-tensorflow
 * 基于Tensorflow的生成对抗文本到图像合成 ： https://github.com/zsdonghao/text-to-image
