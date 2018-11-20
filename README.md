@@ -44,11 +44,11 @@ TF Girls 修炼指南： https://www.youtube.com/watchv=TrWqRMJZU8A&list=PLwY2GJ
 
 # 深度学习实战资源
 
-A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities：https://github.com/OlafenwaMoses/ImageAI ；中文安装使用教程：https://blog.csdn.net/weixin_39059031/article/details/82287688
+[A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities](https://github.com/OlafenwaMoses/ImageAI) ；[中文安装使用教程](https://blog.csdn.net/weixin_39059031/article/details/82287688)
 
-textgenrnn  ：https://github.com/minimaxir/textgenrnn ；中文安装教程：https://blog.csdn.net/weixin_39059031/article/details/83748135
+[textgenrnn](https://github.com/minimaxir/textgenrnn) ；[中文安装教程](https://blog.csdn.net/weixin_39059031/article/details/83748135)
 
-texar：https://github.com/asyml/texar ；中文安装教程：https://blog.csdn.net/weixin_39059031/article/details/83748135
+[texar](https://github.com/asyml/texar) ；[中文安装教程](https://blog.csdn.net/weixin_39059031/article/details/83748135)
 
 Tenflow实现YOLO：“实时对象检测”，支持实时在移动设备上运行的一个小项目：https://github.com/thtrieu/darkflow
 
