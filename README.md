@@ -15,7 +15,7 @@
 * 构建您的第一款TensorFlow Android应用程序 : https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html
 * 机器学习&深度学习网站资源汇总（Machine Learning Resources）：https://github.com/howie6879/mlhub123
 * [书籍《Deep-Learning 《 Applied Deep Learning with Python》.pdf 》代码](https://github.com/TrainingByPackt/Applied-Deep-Learning-with-Python)
-* [书籍Jupyter notebooks for the code samples of the book "Deep Learning with Python" 代码](https://github.com/fchollet/deep-learning-with-python-notebooks)
+* [书籍《Deep Learning《 Deep Learning With Python - 中文版》.pdf 代码](https://github.com/fchollet/deep-learning-with-python-notebooks)
 ## 视频资源
 ### tensorflow视频教程
 * [斯坦福大学Tensorflow系列的课程](https://www.youtube.com/watch?v=g-EvyKpZjmQ&index=1&list=PLIDllPt3EQZoS8gCP3cw273Cq9puuPLTg) ；[课程主页](http://web.stanford.edu/class/cs20si/index.html) ；[课程实战代码](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
