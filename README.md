@@ -1,7 +1,8 @@
 # awesome-machine-learning
-机器学习相关学习资料-书籍-学习代码
+机器学习相关学习资料-书籍-学习代码。
 
 # 网址资源
+* [Github使用教程](https://mp.weixin.qq.com/s/B5DLeM0TqIodfKEW2AAP5g)
 ## 博客
 * [Open AI](https://blog.openai.com/)
 * [DeepMind](https://deepmind.com/blog/?category=research)
