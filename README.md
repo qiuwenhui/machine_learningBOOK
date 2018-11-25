@@ -20,6 +20,7 @@
 * 构建您的第一款TensorFlow Android应用程序 : https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html
 * 机器学习&深度学习网站资源汇总（Machine Learning Resources）：https://github.com/howie6879/mlhub123
 
+
 ## 视频资源
 ### tensorflow视频教程
 * [斯坦福大学Tensorflow系列的课程](https://www.youtube.com/watch?v=g-EvyKpZjmQ&index=1&list=PLIDllPt3EQZoS8gCP3cw273Cq9puuPLTg) ；[课程主页](http://web.stanford.edu/class/cs20si/index.html) ；[课程实战代码](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
@@ -40,6 +41,7 @@
 * [ImageAI : 一个用于迅速构建自己的计算机视觉应用库，快速实现YOLO等目标检测算法](https://github.com/OlafenwaMoses/ImageAI) ；中文安装使用[教程](https://blog.csdn.net/weixin_39059031/article/details/82287688)
 * [textgenrnn ：仅需几行代码快速搭建复杂神经网络文本生成器](https://github.com/minimaxir/textgenrnn) ；中文安装[教程](https://blog.csdn.net/weixin_39059031/article/details/83748135)
 * [texar ：文本生成工具包](https://github.com/asyml/texar) ；中文安装[教程](https://blog.csdn.net/weixin_39059031/article/details/83748135)
+* [tensorflow实战练习，包括强化学习、推荐系统、nlp等](https://github.com/princewen/tensorflow_practice)
 * Tenflow实现YOLO：“实时对象检测”，支持实时在移动设备上运行的一个小项目：https://github.com/thtrieu/darkflow
 * 实现实现Alex Graves论文的随机手写生成的案例 ： https://github.com/hardmaru/write-rnn-tensorflow
 * 基于Tensorflow的生成对抗文本到图像合成 ： https://github.com/zsdonghao/text-to-image
