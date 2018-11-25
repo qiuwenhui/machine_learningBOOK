@@ -63,6 +63,7 @@
 * [textgenrnn ：仅需几行代码快速搭建复杂神经网络文本生成器](https://github.com/minimaxir/textgenrnn) ；中文安装[教程](https://blog.csdn.net/weixin_39059031/article/details/83748135)
 * [texar ：文本生成工具包](https://github.com/asyml/texar) ；中文安装[教程](https://blog.csdn.net/weixin_39059031/article/details/83748135)
 * [tensorflow实战练习，包括强化学习、推荐系统、nlp等](https://github.com/princewen/tensorflow_practice)
+* [Simple and ready-to-use tutorials for TensorFlow ](https://github.com/open-source-for-science/TensorFlow-Course#why-use-tensorflow)
 * Tenflow实现YOLO：“实时对象检测”，支持实时在移动设备上运行的一个小项目：https://github.com/thtrieu/darkflow
 * 实现实现Alex Graves论文的随机手写生成的案例 ： https://github.com/hardmaru/write-rnn-tensorflow
 * 基于Tensorflow的生成对抗文本到图像合成 ： https://github.com/zsdonghao/text-to-image
