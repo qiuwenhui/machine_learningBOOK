@@ -79,8 +79,8 @@
 * All Algorithms implemented in Python ：https://github.com/TheAlgorithms/Python
 
 ## Paper
-* [Activation Functions: Comparison of Trends in Practice and Research for Deep Learning](https://arxiv.org/pdf/1811.03378.pdf)
-
+* [Activation Functions: Comparison of Trends in Practice and Research for Deep Learning](https://arxiv.org/abs/1811.03378)
+* [Pooling is neither necessary nor sufficient for appropriate deformation stability in CNNs](https://arxiv.org/abs/1804.04438)
 
 
 
