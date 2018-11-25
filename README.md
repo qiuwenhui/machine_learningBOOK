@@ -39,7 +39,7 @@
 
 
 ## 视频资源
-### tensorflow视频教程
+### TensorFlow视频资源
 * [斯坦福大学Tensorflow系列的课程](https://www.youtube.com/watch?v=g-EvyKpZjmQ&index=1&list=PLIDllPt3EQZoS8gCP3cw273Cq9puuPLTg) ；[课程主页](http://web.stanford.edu/class/cs20si/index.html) ；[课程实战代码](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
 * [谷歌Tensorflow官网上的视频教程](https://developers.google.cn/machine-learning/crash-course/)
 * [TF Girls 修炼指南](https://www.youtube.com/watchv=TrWqRMJZU8A&list=PLwY2GJhAPWRcZxxVFpNhhfivuW0kX15yG&index=2)
@@ -56,6 +56,7 @@
 [Companion webpage to the book "Mathematics For Machine Learning"](https://mml-book.com)
 
 ## 深度学习实战资源
+* [TensorFlow官方中文教程]（https://tensorflow.google.cn/tutorials/?hl=zh-cn）
 * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 * [ImageAI : 一个用于迅速构建自己的计算机视觉应用库，快速实现YOLO等目标检测算法](https://github.com/OlafenwaMoses/ImageAI) ；中文安装使用[教程](https://blog.csdn.net/weixin_39059031/article/details/82287688)
 * [textgenrnn ：仅需几行代码快速搭建复杂神经网络文本生成器](https://github.com/minimaxir/textgenrnn) ；中文安装[教程](https://blog.csdn.net/weixin_39059031/article/details/83748135)
@@ -69,7 +70,6 @@
 * 基于Facebook中FastText的简单嵌入式文本分类器：https://github.com/apcode/tensorflow_fasttext
 * Tensorflow实现“基于句子分类的卷积神经网络：https://github.com/dennybritz/cnn-text-classification-tf
 * OpenStreetMap功能和卫星图像训练TensorFlow神经网络：https://github.com/jtoy/awesome-tensorflow
-
 * Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow ：https://github.com/matterport/Mask_RCNN
 * A PyTorch implementation of the architecture of Mask RCNN, serves as an introduction to working with PyTorch：https://github.com/wannabeOG/Mask-RCNN
 * Estimate 3D face pose by a Convolutional Neural Network ：https://github.com/fengju514/Face-Pose-Net
