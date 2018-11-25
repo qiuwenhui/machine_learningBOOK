@@ -1,5 +1,5 @@
 # awesome-machine-learning
-机器学习相关学习资料-书籍
+机器学习相关学习资料-书籍-学习代码
 
 # 网址资源
 ## Github资源
@@ -7,6 +7,7 @@
 * [书籍《Deep Learning《 Deep Learning With Python - 中文版》.pdf 代码](https://github.com/fchollet/deep-learning-with-python-notebooks)
 * [书籍《Machine-Learning 《Machine Learning in Action》-中文版 代码](https://github.com/pbharrin/machinelearninginaction)
 * [书籍 《Pattern recognition and machine learing_马春鹏翻译版.pdf 》MatLab代码](https://github.com/PRML/PRMLT) ; [python版](https://github.com/ctgk/PRML)
+* ILearnDeepLearning.py：https://github.com/SkalskiP/ILearnDeepLearning.py
 * Notes for papers or blog posts about ML, Robotics, CV. https://github.com/yenchenlin/paper-notes
 * Deep Learning and deep reinforcement learning research papers and some codes ：https://github.com/endymecy/awesome-deeplearning-resources
 * Deep Learning Book Chinese Translation ：https://github.com/exacity/deeplearningbook-chinese
@@ -30,7 +31,12 @@
 * [Tensorflow与深度学习（人工智能）-初学篇 (Martin Görner)](https://www.youtube.com/watch?v=vq2nnJ4g6N0)
 * [Dan Does Data: Tensor Flow](http://bit.ly/1OX8s8Y)
 * [Julia Ferraioli, Amy Unruh, Eli Bixby - Diving into Machine Learning through TensorFlow - PyCon 2016](https://www.youtube.com/watch?v=GZBIPwdGtkk&t=125s)
+
+## 在线书籍资源
+[Companion webpage to the book "Mathematics For Machine Learning"](https://mml-book.com)
+
 ## 深度学习实战资源
+* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 * [ImageAI : 一个用于迅速构建自己的计算机视觉应用库，快速实现YOLO等目标检测算法](https://github.com/OlafenwaMoses/ImageAI) ；中文安装使用[教程](https://blog.csdn.net/weixin_39059031/article/details/82287688)
 * [textgenrnn ：仅需几行代码快速搭建复杂神经网络文本生成器](https://github.com/minimaxir/textgenrnn) ；中文安装[教程](https://blog.csdn.net/weixin_39059031/article/details/83748135)
 * [texar ：文本生成工具包](https://github.com/asyml/texar) ；中文安装[教程](https://blog.csdn.net/weixin_39059031/article/details/83748135)
@@ -47,6 +53,8 @@
 * A PyTorch implementation of the architecture of Mask RCNN, serves as an introduction to working with PyTorch：https://github.com/wannabeOG/Mask-RCNN
 * Estimate 3D face pose by a Convolutional Neural Network ：https://github.com/fengju514/Face-Pose-Net
 * Code for paper "Plug and Play Generative Networks" ：https://github.com/Evolving-AI-Lab/ppgn
+* Machine learning resources，including algorithm, paper, dataset, example and so on. ：https://github.com/csuldw/MachineLearning
+* All Algorithms implemented in Python ：https://github.com/TheAlgorithms/Python
 
 
 
