@@ -23,6 +23,7 @@
 * [书籍《Machine-Learning 《Machine Learning in Action》-中文版 代码](https://github.com/pbharrin/machinelearninginaction)
 * [书籍 《Pattern recognition and machine learing_马春鹏翻译版.pdf 》MatLab代码](https://github.com/PRML/PRMLT) ; [python版](https://github.com/ctgk/PRML)
 * [书籍《统计学习方法-李航》一书中所有算法实现](https://github.com/WenDesi/lihang_book_algorithm)
+* [机器学习&深度学习网站资源汇总（Machine Learning Resources）](https://github.com/howie6879/mlhub123)
 * ILearnDeepLearning.py：https://github.com/SkalskiP/ILearnDeepLearning.py
 * Notes for papers or blog posts about ML, Robotics, CV. https://github.com/yenchenlin/paper-notes
 * Deep Learning and deep reinforcement learning research papers and some codes ：https://github.com/endymecy/awesome-deeplearning-resources
