@@ -2,6 +2,21 @@
 机器学习相关学习资料-书籍-学习代码
 
 # 网址资源
+## 博客
+* [Open AI](https://blog.openai.com/)
+* [DeepMind](https://deepmind.com/blog/?category=research)
+* [Facebook AI Research博客](https://research.fb.com/blog/)
+* [FerencHuszár的博客(剑桥的博士)](http://www.inference.vc/)
+* [Distill致力于清晰地解释机器学习](https://distill.pub/)
+* [Graduate Descent(深度学习的自然语言处理)](http://timvieira.github.io/blog/)
+* [Adit Deshpande的博客(机器学习和深度学习)](https://adeshpande3.github.io/)
+* [Andrew Trask的博客-神经网络及其解释和实现](http://iamtrask.github.io/)
+* [特斯拉的人工智能总监Andrej Karpathy的博客](http://karpathy.github.io/)
+* [Denny Britz的博客(Google Brain团队的前员工)](http://www.wildml.com/)
+* [Sebastian Ruder(文本分析初创公司Aylien的研究科学家)](http://ruder.io/)
+* [Colah的博客 Olah旨在以简单的方式解释神经网络的复杂功能](http://colah.github.io/)
+* [BAIR博客旨在传播BAIR在人工智能研究方面的研究成果，观点和最新情况](http://bair.berkeley.edu/blog/)
+
 ## Github资源
 * [书籍《Deep-Learning 《 Applied Deep Learning with Python》.pdf 》代码](https://github.com/TrainingByPackt/Applied-Deep-Learning-with-Python)
 * [书籍《Deep Learning《 Deep Learning With Python - 中文版》.pdf 代码](https://github.com/fchollet/deep-learning-with-python-notebooks)
@@ -34,20 +49,7 @@
 * [Dan Does Data: Tensor Flow](http://bit.ly/1OX8s8Y)
 * [Julia Ferraioli, Amy Unruh, Eli Bixby - Diving into Machine Learning through TensorFlow - PyCon 2016](https://www.youtube.com/watch?v=GZBIPwdGtkk&t=125s)
 
-## 博客
-* [Open AI](https://blog.openai.com/)
-* [DeepMind](https://deepmind.com/blog/?category=research)
-* [Facebook AI Research博客](https://research.fb.com/blog/)
-* [Distill致力于清晰地解释机器学习](https://distill.pub/)
-* [BAIR博客旨在传播BAIR在人工智能研究方面的研究成果，观点和最新情况](http://bair.berkeley.edu/blog/)
-* [特斯拉的人工智能总监Andrej Karpathy的博客](http://karpathy.github.io/)
-* [Colah的博客 Olah旨在以简单的方式解释神经网络的复杂功能](http://colah.github.io/)
-* [Denny Britz的博客(Google Brain团队的前员工)](http://www.wildml.com/)
-* [Sebastian Ruder(文本分析初创公司Aylien的研究科学家)](http://ruder.io/)
-* [FerencHuszár的博客(剑桥的博士)](http://www.inference.vc/)
-* [Andrew Trask的博客-神经网络及其解释和实现](http://iamtrask.github.io/)
-* [Graduate Descent(深度学习的自然语言处理)](http://timvieira.github.io/blog/)
-* [Adit Deshpande的博客(机器学习和深度学习)](https://adeshpande3.github.io/)
+
 
 ## 在线书籍资源
 [Companion webpage to the book "Mathematics For Machine Learning"](https://mml-book.com)
