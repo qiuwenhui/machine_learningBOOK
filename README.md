@@ -1,5 +1,5 @@
 # awesome-machine-learning
-机器学习相关学习资料-书籍-学习代码。
+机器学习相关学习资料-书籍-学习代码。(更新中)
 
 # 网址资源
 * [GitHub使用教程](https://mp.weixin.qq.com/s/B5DLeM0TqIodfKEW2AAP5g)
