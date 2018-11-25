@@ -78,6 +78,9 @@
 * Machine learning resources，including algorithm, paper, dataset, example and so on. ：https://github.com/csuldw/MachineLearning
 * All Algorithms implemented in Python ：https://github.com/TheAlgorithms/Python
 
+## Paper
+* [Activation Functions: Comparison of Trends in Practice and Research for Deep Learning](https://arxiv.org/pdf/1811.03378.pdf)
+
 
 
 
