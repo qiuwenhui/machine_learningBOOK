@@ -80,7 +80,7 @@
 * All Algorithms implemented in Python ：https://github.com/TheAlgorithms/Python
 
 ## 论文源码复现
-[NSGA-NET: A Multi-Objective Genetic Algorithm for Neural Architecture Search](https://github.com/ianwhale/nsga-net)
+* [NSGA-NET: A Multi-Objective Genetic Algorithm for Neural Architecture Search](https://github.com/ianwhale/nsga-net)
 
 ## Paper
 * [Activation Functions: Comparison of Trends in Practice and Research for Deep Learning](https://arxiv.org/abs/1811.03378)
