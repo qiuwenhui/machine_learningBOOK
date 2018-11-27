@@ -93,6 +93,7 @@
 ## 论文源码复现
 * [NSGA-NET: A Multi-Objective Genetic Algorithm for Neural Architecture Search](https://github.com/ianwhale/nsga-net)
 * [PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models](https://github.com/r9y9/deepvoice3_pytorch)
+* [Adversarially Parameterized Optimization for 3D Human Pose Estimation](https://github.com/jackd/adversarially_parameterized_optimization)
 ## Paper
 * [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 * [Activation Functions: Comparison of Trends in Practice and Research for Deep Learning](https://arxiv.org/abs/1811.03378)
