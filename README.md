@@ -80,11 +80,13 @@
 * Code for paper "Plug and Play Generative Networks" ：https://github.com/Evolving-AI-Lab/ppgn
 * Machine learning resources，including algorithm, paper, dataset, example and so on. ：https://github.com/csuldw/MachineLearning
 * All Algorithms implemented in Python ：https://github.com/TheAlgorithms/Python
+* [【国赛】【美赛】数学建模相关算法 MATLAB实现 ](https://github.com/HuangCongQing/Algorithms_MathModels)
 
 ## 论文源码复现
 * [NSGA-NET: A Multi-Objective Genetic Algorithm for Neural Architecture Search](https://github.com/ianwhale/nsga-net)
 * [PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models](https://github.com/r9y9/deepvoice3_pytorch)
 ## Paper
+* [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 * [Activation Functions: Comparison of Trends in Practice and Research for Deep Learning](https://arxiv.org/abs/1811.03378)
 * [Pooling is neither necessary nor sufficient for appropriate deformation stability in CNNs](https://arxiv.org/abs/1804.04438)
 
