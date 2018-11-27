@@ -88,6 +88,7 @@
 * All Algorithms implemented in Python ：https://github.com/TheAlgorithms/Python
 * [【国赛】【美赛】数学建模相关算法 MATLAB实现 ](https://github.com/HuangCongQing/Algorithms_MathModels)
 * [Text to image synthesis using thought vectors](https://github.com/paarthneekhara/text-to-image)
+* [A recurrent neural network for generating little stories about images ](https://github.com/ryankiros/neural-storyteller)
 
 ## 论文源码复现
 * [NSGA-NET: A Multi-Objective Genetic Algorithm for Neural Architecture Search](https://github.com/ianwhale/nsga-net)
