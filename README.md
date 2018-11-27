@@ -33,6 +33,7 @@
 * [机器学习&深度学习网站资源汇总（Machine Learning Resources）](https://github.com/howie6879/mlhub123)
 
 * ILearnDeepLearning.py：https://github.com/SkalskiP/ILearnDeepLearning.py
+* Awesome Object Detection based on handong1587 github:https://github.com/amusi/awesome-object-detection
 * Notes for papers or blog posts about ML, Robotics, CV. https://github.com/yenchenlin/paper-notes
 * Deep Learning and deep reinforcement learning research papers and some codes ：https://github.com/endymecy/awesome-deeplearning-resources
 * Deep Learning Book Chinese Translation ：https://github.com/exacity/deeplearningbook-chinese
