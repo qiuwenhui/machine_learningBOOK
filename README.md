@@ -87,6 +87,7 @@
 * Machine learning resources，including algorithm, paper, dataset, example and so on. ：https://github.com/csuldw/MachineLearning
 * All Algorithms implemented in Python ：https://github.com/TheAlgorithms/Python
 * [【国赛】【美赛】数学建模相关算法 MATLAB实现 ](https://github.com/HuangCongQing/Algorithms_MathModels)
+* [Text to image synthesis using thought vectors](https://github.com/paarthneekhara/text-to-image)
 
 ## 论文源码复现
 * [NSGA-NET: A Multi-Objective Genetic Algorithm for Neural Architecture Search](https://github.com/ianwhale/nsga-net)
