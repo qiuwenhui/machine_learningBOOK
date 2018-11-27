@@ -26,6 +26,7 @@
 * [书籍《统计学习方法-李航》一书中所有算法实现](https://github.com/WenDesi/lihang_book_algorithm)
 * [机器学习资源 Machine learning Resources](https://github.com/allmachinelearning/MachineLearning)
 * [机器学习&深度学习网站资源汇总（Machine Learning Resources）](https://github.com/howie6879/mlhub123)
+* [2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 * ILearnDeepLearning.py：https://github.com/SkalskiP/ILearnDeepLearning.py
 * Notes for papers or blog posts about ML, Robotics, CV. https://github.com/yenchenlin/paper-notes
 * Deep Learning and deep reinforcement learning research papers and some codes ：https://github.com/endymecy/awesome-deeplearning-resources
