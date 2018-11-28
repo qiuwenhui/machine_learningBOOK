@@ -31,7 +31,7 @@
 
 * [机器学习资源 Machine learning Resources](https://github.com/allmachinelearning/MachineLearning)
 * [机器学习&深度学习网站资源汇总（Machine Learning Resources）](https://github.com/howie6879/mlhub123)
-
+* [《动手学 深度学习》](https://zh.diveintodeeplearning.org/index.html)
 * ILearnDeepLearning.py：https://github.com/SkalskiP/ILearnDeepLearning.py
 * Awesome Object Detection based on handong1587 github:https://github.com/amusi/awesome-object-detection
 * Notes for papers or blog posts about ML, Robotics, CV. https://github.com/yenchenlin/paper-notes
