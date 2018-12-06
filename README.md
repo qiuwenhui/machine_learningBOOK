@@ -26,6 +26,7 @@
 * [书籍《Deep-Learning 《 Applied Deep Learning with Python》.pdf 》代码](https://github.com/TrainingByPackt/Applied-Deep-Learning-with-Python)
 * [书籍 《Pattern recognition and machine learing_马春鹏翻译版.pdf 》MatLab代码](https://github.com/PRML/PRMLT) ; [python版](https://github.com/ctgk/PRML)
 * [书籍源码实现：《TensorFlow实战》](https://github.com/terrytangyuan/tensorflow-in-practice-code)
+* [书籍源码《Hands-On Transfer Learning with Python》](https://github.com/dipanjanS/hands-on-transfer-learning-with-python)
 * [2019年秋招计算机类面经](https://github.com/zslomo/2019-Autumn-recruitment-experience)
 * [2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 * [机器学习资源 Machine learning Resources](https://github.com/allmachinelearning/MachineLearning)
