@@ -22,8 +22,8 @@
 ## Github资源
 
 ### 书籍代码资料
-* [书籍《Python计算机视觉中译本》代码实例](https://github.com/willard-yuan/pcv-book-code)
 * [书籍源码实现：《TensorFlow实战》](https://github.com/terrytangyuan/tensorflow-in-practice-code)
+* [书籍《Python计算机视觉中译本》代码实例](https://github.com/willard-yuan/pcv-book-code)
 * [书籍《统计学习方法-李航》一书中所有算法实现](https://github.com/WenDesi/lihang_book_algorithm)
 * [书籍源码《Hands-On Transfer Learning with Python》](https://github.com/dipanjanS/hands-on-transfer-learning-with-python)
 * [书籍《Machine-Learning 《Machine Learning in Action》-中文版 代码](https://github.com/pbharrin/machinelearninginaction)
@@ -61,9 +61,9 @@
 * [TF Girls 修炼指南](https://www.youtube.com/watchv=TrWqRMJZU8A&list=PLwY2GJhAPWRcZxxVFpNhhfivuW0kX15yG&index=2)
 * [炼数成金Tensorflow公开课](https://www.youtube.com/watchv=eAtGqz8ytOI&list=PLjSwXXbVlK6IHzhLOMpwHHLjYmINRstrk)
 * [Dan Does Data: Tensor Flow](http://bit.ly/1OX8s8Y)
-* [斯坦福大学Tensorflow系列的课程](https://www.youtube.com/watch?v=g-EvyKpZjmQ&index=1&list=PLIDllPt3EQZoS8gCP3cw273Cq9puuPLTg) ；[课程主页](http://web.stanford.edu/class/cs20si/index.html) ；[课程实战代码](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
 * [谷歌Tensorflow官网上的视频教程](https://developers.google.cn/machine-learning/crash-course/)
 * [Tensorflow与深度学习（人工智能）-初学篇 (Martin Görner)](https://www.youtube.com/watch?v=vq2nnJ4g6N0)
+* [斯坦福大学Tensorflow系列的课程](https://www.youtube.com/watch?v=g-EvyKpZjmQ&index=1&list=PLIDllPt3EQZoS8gCP3cw273Cq9puuPLTg) ；[课程主页](http://web.stanford.edu/class/cs20si/index.html) ；[课程实战代码](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
 * [Julia Ferraioli, Amy Unruh, Eli Bixby - Diving into Machine Learning through TensorFlow - PyCon 2016](https://www.youtube.com/watch?v=GZBIPwdGtkk&t=125s)
 
 * [Tensorflow代码练习](https://github.com/terryum/TensorFlow_Exercises)
