@@ -43,6 +43,7 @@
 * [awesome-pytorch-scholarship](https://github.com/arnas/awesome-pytorch-scholarship)
 * [awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources)
 * [Awesome Object Detection based on handong1587 github](https://github.com/amusi/awesome-object-detection)
+* [awesome-deep-learning  A curated list of awesome Deep Learning tutorials, projects and communities.](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * ILearnDeepLearning.py：https://github.com/SkalskiP/ILearnDeepLearning.py
 * Notes for papers or blog posts about ML, Robotics, CV. https://github.com/yenchenlin/paper-notes
 * Deep Learning Book Chinese Translation ：https://github.com/exacity/deeplearningbook-chinese
