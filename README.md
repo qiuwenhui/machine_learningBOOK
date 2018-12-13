@@ -63,8 +63,8 @@
 * [从Tensorflow基础知识到有趣的项目应用](https://github.com/pkmital/tensorflow_tutorials)
 * [构建您的第一款TensorFlow Android应用程序](https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html)
 * [使用Jupyter Notebook运行的TensorFlow教程](https://github.com/sjchoi86/Tensorflow-101)
-* [tensorflow实战练习，包括强化学习、推荐系统、nlp等](https://github.com/princewen/tensorflow_practice)
 * [Simple and ready-to-use tutorials for TensorFlow](https://github.com/open-source-for-science/TensorFlow-Course#why-use-tensorflow)
+* [tensorflow实战练习，包括强化学习、推荐系统、nlp等](https://github.com/princewen/tensorflow_practice)
 * [TensorFlow Tutorial and Examples for Beginners with Latest APIs](https://github.com/aymericdamien/TensorFlow-Examples)
 
 
