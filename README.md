@@ -78,7 +78,7 @@
 [Companion webpage to the book "Mathematics For Machine Learning"](https://mml-book.com)
 
 ## 深度学习实战资源
-(https://blog.csdn.net/weixin_39059031/article/details/84824659)
+* [practicalAI : A practical approach to learning machine learning.](https://github.com/GokuMohandas/practicalAI/)
 * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 
 * Tenflow实现YOLO：“实时对象检测”，支持实时在移动设备上运行的一个小项目：https://github.com/thtrieu/darkflow
