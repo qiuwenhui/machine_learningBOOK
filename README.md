@@ -31,6 +31,7 @@
 * [书籍《Deep-Learning 《 Applied Deep Learning with Python》.pdf 》代码](https://github.com/TrainingByPackt/Applied-Deep-Learning-with-Python)
 * [书籍 《Pattern recognition and machine learing_马春鹏翻译版.pdf 》MatLab代码](https://github.com/PRML/PRMLT) ; [python版](https://github.com/ctgk/PRML)
 
+
 ### 面试资源
 * [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
 * [2019-Autumn-recruitment-experience](https://github.com/zslomo/2019-Autumn-recruitment-experience)
@@ -44,10 +45,8 @@
 * [awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources)
 * [Awesome Object Detection based on handong1587 github](https://github.com/amusi/awesome-object-detection)
 * [awesome-deep-learning  A curated list of awesome Deep Learning tutorials, projects and communities.](https://github.com/ChristosChristofidis/awesome-deep-learning)
-* ILearnDeepLearning.py：https://github.com/SkalskiP/ILearnDeepLearning.py
-* Notes for papers or blog posts about ML, Robotics, CV. https://github.com/yenchenlin/paper-notes
-* Deep Learning Book Chinese Translation ：https://github.com/exacity/deeplearningbook-chinese
-* 机器学习&深度学习网站资源汇总（Machine Learning Resources）：https://github.com/howie6879/mlhub123
+
+
 
 
 ## 视频资源
@@ -75,35 +74,38 @@
 
 ## 在线书籍资源
 * [《动手学 深度学习》](https://zh.diveintodeeplearning.org/index.html)
+* [Deep Learning Book Chinese Translation](https://github.com/exacity/deeplearningbook-chinese)
 [Companion webpage to the book "Mathematics For Machine Learning"](https://mml-book.com)
 
 ## 深度学习实战资源
-* [practicalAI : A practical approach to learning machine learning.](https://github.com/GokuMohandas/practicalAI/)
+* [神经网络着色灰度图像](https://github.com/pavelgonchar/colornet)
 * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
-
-* Tenflow实现YOLO：“实时对象检测”，支持实时在移动设备上运行的一个小项目：https://github.com/thtrieu/darkflow
-* 实现实现Alex Graves论文的随机手写生成的案例 ： https://github.com/hardmaru/write-rnn-tensorflow
-* 基于Tensorflow的生成对抗文本到图像合成 ： https://github.com/zsdonghao/text-to-image
-* 基于注意力的图像字幕生成器：https://github.com/yunjey/show-attend-and-tell
-* 神经网络着色灰度图像：https://github.com/pavelgonchar/colornet
-* 基于Facebook中FastText的简单嵌入式文本分类器：https://github.com/apcode/tensorflow_fasttext
-* Tensorflow实现“基于句子分类的卷积神经网络：https://github.com/dennybritz/cnn-text-classification-tf
-* OpenStreetMap功能和卫星图像训练TensorFlow神经网络：https://github.com/jtoy/awesome-tensorflow
-* Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow ：https://github.com/matterport/Mask_RCNN
-* A PyTorch implementation of the architecture of Mask RCNN, serves as an introduction to working with PyTorch：https://github.com/wannabeOG/Mask-RCNN
-* Estimate 3D face pose by a Convolutional Neural Network ：https://github.com/fengju514/Face-Pose-Net
-* Code for paper "Plug and Play Generative Networks" ：https://github.com/Evolving-AI-Lab/ppgn
-* Machine learning resources，including algorithm, paper, dataset, example and so on. ：https://github.com/csuldw/MachineLearning
-* All Algorithms implemented in Python ：https://github.com/TheAlgorithms/Python
+* [ILearnDeepLearning.py](https://github.com/SkalskiP/ILearnDeepLearning.py)
+* [基于注意力的图像字幕生成器](https://github.com/yunjey/show-attend-and-tell)
+* [基于Tensorflow的生成对抗文本到图像合成](https://github.com/zsdonghao/text-to-image)
+* [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
+* [Tensorflow实现“基于句子分类的卷积神经网络](https://github.com/dennybritz/cnn-text-classification-tf)
+* [实现实现Alex Graves论文的随机手写生成的案例](https://github.com/hardmaru/write-rnn-tensorflow)
 * [【国赛】【美赛】数学建模相关算法 MATLAB实现 ](https://github.com/HuangCongQing/Algorithms_MathModels)
+* [基于Facebook中FastText的简单嵌入式文本分类器](https://github.com/apcode/tensorflow_fasttext)
 * [Text to image synthesis using thought vectors](https://github.com/paarthneekhara/text-to-image)
+* [OpenStreetMap功能和卫星图像训练TensorFlow神经网络](https://github.com/jtoy/awesome-tensorflow)
+* [Code for paper "Plug and Play Generative Networks"](https://github.com/Evolving-AI-Lab/ppgn)
+* [Estimate 3D face pose by a Convolutional Neural Network](https://github.com/fengju514/Face-Pose-Net)
+* [practicalAI : A practical approach to learning machine learning.](https://github.com/GokuMohandas/practicalAI/)
+* [Tenflow实现YOLO：“实时对象检测”，支持实时在移动设备上运行的一个小项目](https://github.com/thtrieu/darkflow)
 * [A recurrent neural network for generating little stories about images ](https://github.com/ryankiros/neural-storyteller)
+* [Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow](https://github.com/matterport/Mask_RCNN)
+* [Machine learning resources，including algorithm, paper, dataset, example and so on.](https://github.com/csuldw/MachineLearning)
+* [A PyTorch implementation of the architecture of Mask RCNN, serves as an introduction to working with PyTorch](https://github.com/wannabeOG/Mask-RCNN)
 
 ## 论文源码复现
+* [Visualizing the Loss Landscape of Neural Nets. NIPS](https://github.com/tomgoldstein/loss-landscape)
+* [Adversarially Parameterized Optimization for 3D Human Pose Estimation](https://github.com/jackd/adversarially_parameterized_optimization)
 * [NSGA-NET: A Multi-Objective Genetic Algorithm for Neural Architecture Search](https://github.com/ianwhale/nsga-net)
 * [PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models](https://github.com/r9y9/deepvoice3_pytorch)
-* [Adversarially Parameterized Optimization for 3D Human Pose Estimation](https://github.com/jackd/adversarially_parameterized_optimization)
-* [Visualizing the Loss Landscape of Neural Nets. NIPS](https://github.com/tomgoldstein/loss-landscape)
+
+
 ## Paper
 * [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 * [Activation Functions: Comparison of Trends in Practice and Research for Deep Learning](https://arxiv.org/abs/1811.03378)
