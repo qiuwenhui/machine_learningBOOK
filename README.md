@@ -78,25 +78,25 @@
 [Companion webpage to the book "Mathematics For Machine Learning"](https://mml-book.com)
 
 ## 深度学习实战资源
-* [神经网络着色灰度图像](https://github.com/pavelgonchar/colornet)
+
 * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 * [ILearnDeepLearning.py](https://github.com/SkalskiP/ILearnDeepLearning.py)
-* [基于注意力的图像字幕生成器](https://github.com/yunjey/show-attend-and-tell)
-* [基于Tensorflow的生成对抗文本到图像合成](https://github.com/zsdonghao/text-to-image)
 * [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
-* [Tensorflow实现“基于句子分类的卷积神经网络](https://github.com/dennybritz/cnn-text-classification-tf)
-* [实现实现Alex Graves论文的随机手写生成的案例](https://github.com/hardmaru/write-rnn-tensorflow)
 * [【国赛】【美赛】数学建模相关算法 MATLAB实现 ](https://github.com/HuangCongQing/Algorithms_MathModels)
-* [基于Facebook中FastText的简单嵌入式文本分类器](https://github.com/apcode/tensorflow_fasttext)
 * [Text to image synthesis using thought vectors](https://github.com/paarthneekhara/text-to-image)
+* [Generative Adversarial Text to Image Synthesis](https://github.com/zsdonghao/text-to-image)
 * [OpenStreetMap功能和卫星图像训练TensorFlow神经网络](https://github.com/jtoy/awesome-tensorflow)
 * [Code for paper "Plug and Play Generative Networks"](https://github.com/Evolving-AI-Lab/ppgn)
+* [TensorFlow Implementation of "Show, Attend and Tell" ](https://github.com/yunjey/show-attend-and-tell)
 * [Estimate 3D face pose by a Convolutional Neural Network](https://github.com/fengju514/Face-Pose-Net)
 * [practicalAI : A practical approach to learning machine learning.](https://github.com/GokuMohandas/practicalAI/)
 * [Tenflow实现YOLO：“实时对象检测”，支持实时在移动设备上运行的一个小项目](https://github.com/thtrieu/darkflow)
+* [Convolutional Neural Network for Text Classification in Tensorflow ](https://github.com/dennybritz/cnn-text-classification-tf)
 * [A recurrent neural network for generating little stories about images ](https://github.com/ryankiros/neural-storyteller)
+* [Generative Handwriting using LSTM Mixture Density Network with TensorFlow ](https://github.com/hardmaru/write-rnn-tensorflow)
 * [Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow](https://github.com/matterport/Mask_RCNN)
 * [Machine learning resources，including algorithm, paper, dataset, example and so on.](https://github.com/csuldw/MachineLearning)
+* [Simple embedding based text classifier inspired by fastText, implemented in tensorflow ](https://github.com/apcode/tensorflow_fasttext)
 * [A PyTorch implementation of the architecture of Mask RCNN, serves as an introduction to working with PyTorch](https://github.com/wannabeOG/Mask-RCNN)
 
 ## 论文源码复现
