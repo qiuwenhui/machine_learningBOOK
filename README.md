@@ -42,6 +42,7 @@
 ### GitHub其他awesome资源
 * [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
 * [awesome-pytorch-scholarship](https://github.com/arnas/awesome-pytorch-scholarship)
+* [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)
 * [awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources)
 * [TensorFlow - A curated list of dedicated resources](https://github.com/jtoy/awesome-tensorflow)
 * [Awesome Object Detection based on handong1587 github](https://github.com/amusi/awesome-object-detection)
