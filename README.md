@@ -85,6 +85,7 @@
 * [ILearnDeepLearning.py](https://github.com/SkalskiP/ILearnDeepLearning.py)
 * [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 * [【国赛】【美赛】数学建模相关算法 MATLAB实现 ](https://github.com/HuangCongQing/Algorithms_MathModels)
+* [AI比赛相关](https://github.com/HuangCongQing/AI_competitions)
 * [Text to image synthesis using thought vectors](https://github.com/paarthneekhara/text-to-image)
 * [Generative Adversarial Text to Image Synthesis](https://github.com/zsdonghao/text-to-image)
 * [Code for paper "Plug and Play Generative Networks"](https://github.com/Evolving-AI-Lab/ppgn)
