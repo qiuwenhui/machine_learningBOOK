@@ -33,7 +33,7 @@
 
 
 ### 面试资源
-* [Machine-Learning-Knowledge](https://github.com/Pysamlam/Machine-Learning-Knowledge)【机器学习知识点汇总】
+
 * [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
 * [2019-Autumn-recruitment-experience](https://github.com/zslomo/2019-Autumn-recruitment-experience)
 * [机器学习资源 Machine learning Resources](https://github.com/allmachinelearning/MachineLearning)
