@@ -41,6 +41,7 @@
 * [2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 
 ### GitHub其他awesome资源
+* [Machine-Learning-Knowledge](https://github.com/Pysamlam/Machine-Learning-Knowledge)【机器学习知识点汇总】
 * [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
 * [awesome-pytorch-scholarship](https://github.com/arnas/awesome-pytorch-scholarship)
 * [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)
